@@ -2,13 +2,13 @@
 22 Spring semester CSE 450 course works at Washington University in St. Louis.
 
 ## Contents
-+ This course compised with a personal presentation, game implementation quests using UNITY engine and a team proejct
++ This course consists of individual presentations, game implementation quests using the UNITY engine, and a team project.
 
 ## Quests with UNITY engine
-+ Check for the folder above.
++ Check out for the folder above.
 
 ## Personal presentation
-
+* [Industrial topic](https://github.com/kbckbc/washu_sp22_cse450/blob/main/industrial_topic_bcgwak.pptx)
 
 ## Final proeject
 2D Video game made with Unity Engine
